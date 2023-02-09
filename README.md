@@ -14,11 +14,6 @@ In your cheatsheets,  use 3 back ticks ` to separate out the code and optionally
 
 and use headings to make things clear 
 
-## Glossary Entries 
-
-Format your glossary entries using [myst markdown](https://jupyterbook.org/en/stable/content/content-blocks.html#glossaries)
-
-
 ## In peer reviews 
 
 Use the following as a template in your reviews. 
